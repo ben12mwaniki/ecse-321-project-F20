@@ -15,7 +15,7 @@ public class GallerySystemApplication {
 	
 	@RequestMapping("/")
 	  public String greeting(){
-	    return "Welcome to Group 10 Gallery System!";
+	    return "Welcome to your Online Gallery Shop!";
 	  }
 
 }
